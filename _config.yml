@@ -24,7 +24,7 @@ github_username:  charm-city-game-design
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
+remote_theme: broccolini/athena
 plugins:
   - jekyll-feed
 

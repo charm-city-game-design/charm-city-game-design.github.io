@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
+layout: post
+title: Coming Soon
 ---
-## Coming Soon
-
 More to come

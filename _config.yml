@@ -123,7 +123,7 @@ author:
     location: "Maryland"
     links:
         - label: "Website"
-          icon: "ffas fa-fw fa-link"
+          icon: "fas fa-fw fa-link"
           url: "https://dexterduckworth.com"
         - label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"

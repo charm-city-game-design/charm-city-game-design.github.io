@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
-title: Coming Soon
+title: "Coming Soon"
 ---
 More to come

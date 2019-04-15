@@ -1,10 +1,9 @@
 ---
-published: false
 title: Coming Soon
 categories:
-  - Test
+  - Games
 tags:
-  - test
+  - design
 ---
 More to come
 

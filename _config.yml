@@ -119,7 +119,7 @@ author:
     bio: ""
     location: "Maryland"
     links:
-    	- label: "Website"
+        - label: "Website"
           icon: "ffas fa-fw fa-link"
           url: "https://dexterduckworth.com"
         - label: "Twitter"

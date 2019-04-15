@@ -116,7 +116,10 @@ analytics:
 
 author:
     name: "Dexter Duckworth"
-    bio: ""
+    avatar: "/assets/images/dexter-profile.jpeg"
+    bio: >-
+      Software ninja. Instagram influencer. Varys stan.
+      Lots of thoughts on game design. Sometimes actually makes games.
     location: "Maryland"
     links:
         - label: "Website"

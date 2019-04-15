@@ -115,7 +115,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 author:
-	name: "Dexter Duckworth"
+    name: "Dexter Duckworth"
     bio: ""
     location: "Maryland"
     links:
@@ -126,7 +126,7 @@ author:
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/dexterduckworth/"
 footer:
-	links:
+    links:
     	- label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/charmcgd"
@@ -251,4 +251,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-	  related: true
+      related: true

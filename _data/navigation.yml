@@ -1,0 +1,9 @@
+main:
+  - title: "The Fleet"
+    url: /games/fleet
+  - title: "News"
+    url: /categories/news
+  - title: "Articles"
+    url: /categories/design
+  - title: "About"
+    url: /about

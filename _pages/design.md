@@ -1,6 +1,6 @@
 ---
 title: Design
-layout: tag
-permalink: /tags/design/
+layout: category
+permalink: /categories/design/
 taxonomy: design
 ---

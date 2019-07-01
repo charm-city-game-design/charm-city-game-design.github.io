@@ -15,7 +15,7 @@ title_separator: "-"
 email: "dexter@charmcitygamedesign.com"
 description: "Designing games at an interminable pace."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "//charmcitygamedesign.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://charmcitygamedesign.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dexterduckworth
 github_username:  charm-city-game-design
 

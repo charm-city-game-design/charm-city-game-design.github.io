@@ -18,6 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charmcitygamedesign.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dexterduckworth
 github_username:  charm-city-game-design
+repository: "charm-city-game-design/charm-city-game-design.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 plugins:
@@ -40,7 +41,7 @@ minimal_mistakes_skin: "default"
 words_per_minute: 200
 
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -53,6 +54,7 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
+    label                : "comment"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -123,6 +125,9 @@ author:
       Still mad about the ending of Game of Thrones.
     location: "Maryland"
     links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope"
+          url: "mailto:dexter@charmcitygamedesign.com"
         - label: "Website"
           icon: "fas fa-fw fa-link"
           url: "https://dexterduckworth.com"
@@ -131,14 +136,16 @@ author:
           url: "https://twitter.com/dexterduckworth/"
 footer:
     links:
+        - label: "Contact"
+          icon: "fas fa-fw fa-envelope"
+          url: "mailto:contact@charmcitygamedesign.com"
         - label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/dexterduckworth"
         - label: "Github"
           icon: "fab fa-fw fa-github"
           url: "https://github.com/charm-city-game-design"
-          
-    
+        
 
 # Reading Files
 include:
@@ -262,7 +269,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
